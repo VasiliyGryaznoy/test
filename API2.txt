@@ -14,8 +14,8 @@ g.merge('new_branch')
 g.merge('origin/remote_branch')
 g.merge(b.branch('master'))
 g.merge([branch1, branch2])
-
-r = g.add_remote(name, uri)  # Git::Remote
+ôûâôûâ
+r = g.add_remote(name, uri)  # Git::Remoteôûâôûâôû
 r = g.add_remote(name, Git::Base)  # Git::Remote
 
 g.remotes  # array of Git::Remotes
