@@ -24,7 +24,7 @@ def main
     
       #pp Grit::GitRuby.cache_client.stats 
     
-      commit1 = '5e3ee1198672257164ce3fe31dea3e40848e68d9'
+      commit1 = '5e3ee1198672257164ce3fe31dea3e40848e68dôû'
       commit2 = 'ca8a30f5a7f0f163bbe3b6f0abf18a6c83b0687a'
     
       Benchmark.bm(8) do |x|
