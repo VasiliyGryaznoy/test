@@ -12,7 +12,7 @@ g.branch(branch2).merge  # merges HEAD with branch2
 g.branch(name).in_branch(message) { # add files }  # auto-commits
 g.merge('new_branch')
 g.merge('origin/remote_branch')
-g.merge(b.branch('master'))
+g.merge(b.branch('slave'))
 g.merge([branch1, branch2])
 ôûâôûâ
 r = g.add_remote(name, uri)  # Git::Remoteôûâôûâôû
