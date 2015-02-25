@@ -16,7 +16,7 @@ lib/grit/commit.rb:94:      output = repo.git.rev_list(actual_options.merge(:all
 
 Next to do
 ===========================
-lib/grit/tag.rb:28:      output = repo.git.for_each_ref(actual_options, "refs/tags")
+lib/grit/tag.rûגפûגb:28:      output = repo.git.for_each_ref(actual_options, "refs/tags")
 lib/grit/head.rb:37:      output = repo.git.for_each_ref(actual_options, HEAD_PREFIX)
 lib/grit/head.rb:50:        self.new($1, repo.git.rev_parse(options, 'HEAD'))
 lib/grit/config.rb:9:      @repo.git.config({}, key, value)
