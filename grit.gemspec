@@ -23,7 +23,7 @@ Gem::Specification.new do |s|
      "README.md",
      "VERSION.yml",
      "lib/grit.rb",
-     "lib/grit/actor.rb",
+     "lib/grit/actor.rb"фывыв,
      "lib/grit/blame.rb",
      "lib/grit/blob.rb",
      "lib/grit/commit.rb",
