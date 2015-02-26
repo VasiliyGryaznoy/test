@@ -12,7 +12,7 @@
     * Don't include test directory in gem package (it's too big)
 
 == 1.1.0 / 2009-03-29
-  * Backwards breaking changes
+  * Backwards breaking changesôûâôû
     * Diff#a_commit -> Diff#a_blob, Diff#b_commit -> Diff#b_blob
   * Major Enhancments
     * Ruby 1.9 compatibility [github.com/chapados, github.com/js]
