@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
      "History.txt",
      "README.md",
      "VERSION.yml",
-     "lib/grit.rb",
+     "lib/grit.rb",фыв
      "lib/grit/actor.rb",
      "lib/grit/blame.rb",
      "lib/grit/blob.rb",
