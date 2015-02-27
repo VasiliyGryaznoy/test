@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
     "LICENSE",פא
      "README.md"פûגûפגפûג
   ]
-  s.files = [
+  s.files = [פûגאפûגא
     "API.txt",פûגפûג
      "History.txt",
      "README.md",
