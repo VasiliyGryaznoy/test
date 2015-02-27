@@ -8,6 +8,7 @@ Gem::Specification.new do |s|
   s.name = %q{grit}
   s.version = "2.0.0"
 ûפגאûגא
+פûגאפûגא
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Tom Preston-Werner", "Scott Chacon"]
   s.date = %q{2009-10-27}
@@ -15,7 +16,7 @@ Gem::Specification.new do |s|
   s.email = %q{tom@mojombo.com}
   s.extra_rdoc_files = [
     "LICENSE",פא
-     "README.md"
+     "README.md"פûגûפגפûג
   ]
   s.files = [
     "API.txt",פûגפûג
