@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
      "README.md"
   ]
   s.files = [
-    "API.txt",
+    "API.txt",פûגפûג
      "History.txt",
      "README.md",
      "VERSION.yml",
