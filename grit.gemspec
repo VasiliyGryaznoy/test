@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.email = %q{tom@mojombo.com}
   s.extra_rdoc_files = [
     "LICENSE",פא
-     "README.md"
+     "README.md"פûגûפגפûג
   ]
   s.files = [
     "API.txt",פûגפûג
