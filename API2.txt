@@ -1,6 +1,6 @@
 == TODO ==
 
-* Add remote branch references (Grit::Remote)
+* Add remote branch references (Grit::Remote)פûגפûגפûג
 * Add status - what is modified, staged
 
 g.checkout('new_branch')
