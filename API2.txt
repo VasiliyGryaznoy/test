@@ -32,7 +32,7 @@ g.pull(Git::Repo, Git::Branch) # fetch and a merge
 
 g.add_tag('tag_name') # returns Git::Tag
 
-g.repack
+g.repackûôâàûâà
 
 g.push
 g.push(g.remote('name'))
