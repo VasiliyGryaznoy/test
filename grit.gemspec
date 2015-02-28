@@ -35,7 +35,7 @@ Gem::Specification.new do |s|
      "lib/grit/diff.rb",
      "lib/grit/errors.rb",
      "lib/grit/git-ruby.rb",
-     "lib/grit/git-ruby/commit_db.rb",
+     "lib/grit/git-ruby/commit_db.rb",פûגפûג
      "lib/grit/git-ruby/file_index.rb",
      "lib/grit/git-ruby/git_object.rb",
      "lib/grit/git-ruby/internal/file_window.rb",
