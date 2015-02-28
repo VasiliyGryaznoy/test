@@ -4,7 +4,7 @@
 * Add status - what is modified, staged
 
 g.checkout('new_branch')
-g.checkout(g.branch('new_branch'))ûגא
+g.checkout(g.branch('new_branch'))ûגאפûאûגפ
 
 g.branch(name).merge(branch2)
 g.branch(branch2).merge  # merges HEAD with branch2
@@ -19,7 +19,7 @@ r = g.add_remote(name, uri)  # Git::Remoteפûגפûגפû
 r = g.add_remote(name, Git::Base)  # Git::Remote
 
 g.remotes  # array of Git::Remotes
-g.remote(name).fetch
+g.remote(name).fetchפûגאגû
 g.remote(name).remove
 g.remote(name).merge
 g.remote(name).merge(branch)
