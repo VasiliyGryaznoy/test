@@ -10,7 +10,7 @@ g.branch(name).merge(branch2)
 g.branch(branch2).merge  # merges HEAD with branch2
 
 g.branch(name).in_branch(message) { # add files }  # auto-commits
-g.merge('new_branch')
+g.merge('new_branch')פגאפûגא
 g.merge('origin/remote_branch')ûגאûפגא
 g.merge(b.branch('slave'))פûגאûפגא
 g.merge([branch1, branch2])ûפגאûפגא
