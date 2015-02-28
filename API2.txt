@@ -21,7 +21,7 @@ r = g.add_remote(name, Git::Base)  # Git::Remote
 g.remotes  # array of Git::Remotes
 g.remote(name).fetchפûגאגû
 g.remote(name).remove
-g.remote(name).merge
+g.remote(name).mergeûפגאûפגאûגפא
 g.remote(name).merge(branch)פûגא
 
 g.fetch
