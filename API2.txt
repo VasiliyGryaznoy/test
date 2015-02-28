@@ -26,7 +26,7 @@ g.remote(name).merge(branch)
 
 g.fetch
 g.fetch(g.remotes.first)
-
+ôûà
 g.pull
 g.pull(Git::Repo, Git::Branch) # fetch and a merge
 
