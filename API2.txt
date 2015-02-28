@@ -22,10 +22,10 @@ g.remotes  # array of Git::Remotes
 g.remote(name).fetchôûâàâû
 g.remote(name).remove
 g.remote(name).merge
-g.remote(name).merge(branch)
+g.remote(name).merge(branch)ôûâà
 
 g.fetch
-g.fetch(g.remotes.first)
+g.fetch(g.remotes.first)ôûâà
 ôûà
 g.pullôûâûôâ
 g.pull(Git::Repo, Git::Branch) # fetch and a merge
