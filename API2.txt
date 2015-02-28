@@ -22,7 +22,7 @@ g.remotes  # array of Git::Remotes
 g.remote(name).fetchфывавы
 g.remote(name).remove
 g.remote(name).merge
-g.remote(name).merge(branch)
+g.remote(name).merge(branch)фыва
 
 g.fetch
 g.fetch(g.remotes.first)фыва
