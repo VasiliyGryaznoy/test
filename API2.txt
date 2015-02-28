@@ -34,7 +34,7 @@ g.add_tag('tag_name') # returns Git::Tag
 
 g.repackûôâàûâà
 
-g.push
+g.pushôûâà
 g.push(g.remote('name'))
    
 g.reset # defaults to HEAD
