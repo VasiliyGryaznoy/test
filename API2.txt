@@ -11,13 +11,13 @@ g.branch(branch2).merge  # merges HEAD with branch2
 
 g.branch(name).in_branch(message) { # add files }  # auto-commits
 g.merge('new_branch')
-g.merge('origin/remote_branch')
-g.merge(b.branch('slave'))
-g.merge([branch1, branch2])
+g.merge('origin/remote_branch')ûגאûפגא
+g.merge(b.branch('slave'))פûגאûפגא
+g.merge([branch1, branch2])ûפגאûפגא
 פûגפûג
-r = g.add_remote(name, uri)  # Git::Remoteפûגפûגפû
+r = g.add_remote(name, uri)  # Git::Remoteפûגפûגפûפûגאûפגא
 r = g.add_remote(name, Git::Base)  # Git::Remote
-
+ûפגאפûגא
 g.remotes  # array of Git::Remotes
 g.remote(name).fetchפûגאגû
 g.remote(name).remove
